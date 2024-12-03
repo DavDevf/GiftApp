@@ -15,7 +15,7 @@ export const GiftExpertApp = () => {
   return (
     <>
       {/*Titulo*/}
-      <h1>GiftExpertApp</h1>
+      <h1>GiftApp</h1>
 
       {/*Input */}
       <AddCategory //setCategories={setCategories}
